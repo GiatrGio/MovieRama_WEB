@@ -22,8 +22,8 @@ This is the frontend part of the MovieRama Web Application. It communicates with
 Clone the repository to your local machine:
 
 ```bash
-git clone https://github.com/yourusername/movie-app.git
-cd movie-app
+git clone https://github.com/GiatrGio/MovieRama_WEB.git
+cd MovieRama_WEB
 ```
 
 Install the required dependencies:
