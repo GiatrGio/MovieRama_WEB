@@ -1,0 +1,11 @@
+.movieSection {
+    flex: 70%;
+    width: 50%;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.movieTab {
+    border: #282c34 1px solid;
+}
